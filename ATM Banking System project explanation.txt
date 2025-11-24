@@ -1,0 +1,43 @@
+First of all I will explain log in menu features.  
+
+ The first part of log in menu is “Balance inquiry”. Basically balance inquiry view 
+current account balance. This option displays the user's current account balance, 
+allowing them to stay informed about their finances. 
+
+ The next part is “Deposit”. It work to add funds to the account. Basically Users can 
+add funds to their account by entering the desired amount. The system validates the 
+input and updates the balance accordingly 
+
+ Then the next part is “withdrew”. The purpose of withdraw to Remove funds from the 
+account, subject to sufficient balance. This feature enables users to withdraw funds. 
+The system checks for sufficient balance before processing the transaction to prevent 
+overdrafts. 
+
+ The next part is “Change Pin”. Its use when Update the account's PIN after verifying 
+the current one or enhanced security, users can update their PIN. The system first 
+verifies the existing PIN before allowing a change. 
+
+ The next part is “mini statement” it Display a list of recent transactions. And Users 
+can view a summary of their recent transactions, providing transparency and easy 
+tracking of account activity. 
+
+ The last past of log in menu is “Log out” it works Exit the session and return to the 
+main menu. This option securely ends the user's session, ensuring that their account 
+remains protected." 
+
+Now I will explain admin view option and exit and its purpose. Beyond user functionalities, the 
+system includes an Admin View. This feature allows administrators to monitor all registered 
+users and their respective balances. It's a crucial tool for overseeing the system's overall 
+operation and ensuring data integrity 
+
+The Exit option allows users to terminate the ATM session safely and return to the main menu or 
+close the application. 
+
+The last part of presentation is conclusion  
+In conclusion, this C++ ATM simulation project effectively demonstrates the application of 
+object-oriented programming principles to model real-world banking operations. From secure 
+user authentication to comprehensive account management and administrative oversight, the 
+system encapsulates essential features of an actual ATM. 
+
+This project not only reinforces fundamental programming concepts but also provides practical 
+insights into system design and user interaction. Thank you for your attention
